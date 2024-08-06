@@ -1,0 +1,1 @@
+# İki sayının ebob ve ekok değerlerini bulur.
